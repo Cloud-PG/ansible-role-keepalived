@@ -12,4 +12,4 @@ galaxy_info:
    - keepalived
 
 dependencies: 
-   - { role: indigo-dc.docker }
+   - { role: Cloud-PG.docker }
